@@ -1,0 +1,76 @@
+ 線上AI(於無痕模式中開啟)
+https://colab.research.google.com/drive/1_Ma71L6uGbtt6UQyA3FjqW2lcZ5Bjck-
+
+崩潰(無效)
+import os
+# 这里一定会报错，不要恐慌并且无视报错继续执行
+os.kill(os.getpid(), 9) # This will crash Colab (required, everything will still be intact so dont worry)
+
+
+防掛                    //防止掛機停止運作 於F12主控台中的Console中貼上
+function ConnectButton(){
+    console.log("Connect pushed"); 
+    document.querySelector("#top-toolbar > colab-connect-button").shadowRoot.querySelector("#connect").click() 
+}
+setInterval(ConnectButton,60000);
+
+-------------------------------------
+set COMMANDLINE_ARGS=--lowvram --precision full --no-half<<黑圖
+-------------------------------------
+
+
+施法咒語:
+
+[Minato Aqua] 規模:9
+
+正:masterpiece,best quality,official art,extremely detailed CG unity 8k wallpaper, {{minato aqua}}, {hololive}, {{1girl}}, loli, little girl, aqua hair, twintails, very long hair, colored inner hair, streaked hair, sparkling eyes, pink eyes, detail eyes, eyelashes, purple eyeshadow, cat_ears, {sitting on table}, beautiful detailed eyes,  ahoge, wallpaper, Japanese, pink eyes,  glowing eyes, white kneehighs, In the bedroom is a wooden floor with a desk with a stack of comics and a big plush bed and a window with sunlight coming in with white curtains, detail background, cute background, cleavage apron, [small breasts], shy, looking at viewer, [short thumb], hair ribbon, hair ribbon, collarbone 
+
+
+負:nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra fingers, more than 5 fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, extra leg, missing leg, extra arm, missing arm, fingers too long, no fingers, leg dislocation,arm dislocation
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[18+ Minato Aqua] 規模:9
+
+正:masterpiece,best quality,official art,extremely detailed CG unity 8k wallpaper, {{minato aqua}}, hololive, {{{{1girl}}}}, 1boy, {{oppai loli}}, twintails, {very long hair}, streaked hair, aqua inner hair, pink eyes, detail eyes, {rolling eyes}, eyelashes, purple eyeshadow, cat_ears, beautiful detailed eyes,  ahoge, pink eyes,  glowing eyes, heart in eye, half-closed eyes,  
+In the room there is a man and a woman and a window with sunlight coming in, detail background, shy, looking at viewer, head tilt, [short thumb], hair ribbon, collarbone ,nsfw, saliva, breasts out, spread legs, nipples, spread legs, torogao, pussy_juice, {{female masturbation}}, blush, small areolae, hoodie, cute bra, {{sweating profusely}}, {{bra lift}}, {pillory}, {nose blush}, facial, dynamic angle, naked hoodie, no panties,  cum in mouth, penis, cum_inside, testicles, girl on top,  cum on body
+
+
+反:lowres, bad anatomy, bad hands, text, error, missing fingers, extra fingers, more than 5 fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, extra leg, missing leg, extra arm, missing arm, fingers too long, no fingers, leg dislocation,arm dislocation, body too long, mutilation, more than two nipples, rough clothes
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[perseus (azur lane)] 規模:9
+
+正:masterpiece, glowing eyelity, official art,extremely detailed CG unity 8k wallpaper, {{{{perseus (azur lane)}}}}, {pink hair}, detached sleeves, white dress, white wings, {{falling feathers}}, frilled dress, frills, headdress, pink eyes, beautiful detailed eyes, twintail, very long hair, cleavage, angel wings, {{sleeveless dress}}, {{{oppai loli}}}, lake at night, small breasts, looking away, {{bloom}}, {{beautiful detail water}}, {{empty eyes}}, white pantyhose, detail moon, light particles, floating hair, {{{{{soaked}}}}}, {{sitting on water}}, {expressionless}, bangs, {beautiful detail starry sky}, {expressionless eyes}, dynamic angle, blurry foreground, {{{{1girl}}}}
+
+
+反:nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra fingers, more than 5 fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, extra leg, missing leg, extra arm, missing arm, fingers too long, no fingers, leg dislocation,arm dislocation
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+上原步夢
+
+正:masterpiece,best quality,official art, {{{{{love live! nijigasaki high school idol club}}}}}, awakening promise (love live!), {{style of love live!}}, {{loli}}, minigirl, {{{{{light coral red hair}}}}}, sidelocks, {{{{blunt bangs}}}}, {{{{{{{{medium hair}}}}}}}}, swept bangs, blush, braid bun, clenched hand, hair ornament, {{hairpin}}, {{{{half updo}}}}, solo, {{{dark yellow eyes}}}, dynamic angle, collarbone, {asymmetrical bangs}, light blush, beautiful detailed eyes, idol, {side braid}, looking at viewer, {{{{{{pink dress}}}}}}, {{{{{asymmetrical hair}}}}}, {{{{{big e}}}}}, white gloves, strapless dress, red bow, pink bow, breastsached sleeves, breasts puffy short sleeves, puffy sleeves, striped bow, smile, white bow, hair bow, moonlight shines through windows in a dim church, bloom, {{{night}}}, single side bun, slit pupils, stare, {{wide eyed}}	 	
+	
+
+反:nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra fingers, more than 5 fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, extra leg, missing leg, extra arm, missing arm, fingers too long, no fingers, leg dislocation,arm dislocation, rough dress
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+校服上原步夢
+
+正:masterpiece,best quality,official art, {{{{{love live! nijigasaki high school idol club}}}}}, {{{{style of love live!}}}}, {{{{loli}}}}, {{minigirl}}, {{{{{{{light coral red hair}}}}}}}, sidelocks, {{{{blunt bangs}}}}, {{{{{{{{medium hair}}}}}}}}, {{{swept bangs}}}, blush, braid bun, clenched hand, hair ornament, {{hairpin}}, {{{{half updo}}}}, solo, {{{dark yellow eyes}}}, dynamic angle, collarbone, {asymmetrical bangs}, light blush, beautiful detailed eyes, idol, {side braid}, looking at viewer, {{{{{asymmetrical hair}}}}}, {{{{{big e}}}}}, single side bun, slit pupils, stare, {{wide eyed}}, bowtie, collared shirt, cowboy shot, {{nijigasaki academy school uniform}}, white plaid skirt, school uniform, short sleeves, {sweater vest}, white shirt, white sweater, black skirt, palid skirt, dress shirt, summer uniform, in the classroom, small breast, {{dusk}}, shadow, ribbon 
+
+
+反:nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra fingers, more than 5 fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, extra leg, missing leg, extra arm, missing arm, fingers too long, no fingers, leg dislocation,arm dislocation
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+白髮精靈
+
+正:masterpiece, halter toplity, poole, white hair, {{oppai loli}},  {{{ In the dense forest there is a shrine with stone steps}}, exquisite background, dramatic shadows, liges, {{1girl}}, baht particlre legs, pointy ears, barefoot, light green eyes, beautiful detailed eyes, white halterneck, looking at viewer, blush, white panties, Side ponytail, {{painted in the style of Arabesque}}, collarbone, {{nontraditional miko}}, {minigirl}, Sitting, {{dynamic angle}}, {colse up shot}, small breasts, bolo tie, hand on own chest, beautiful lighting
+
+
+
+反:nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra fingers, more than 5 fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, extra leg, missing leg, extra arm, missing arm, fingers too long, no fingers, leg dislocation,arm dislocation
