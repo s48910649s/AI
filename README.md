@@ -14,6 +14,11 @@
 - 6.於下方網站中開啟另一視窗
 - 7.調整圖片大小、圖片對比次數、希望生成出的圖片標籤、生成的圖片資料
 
+## 評估分析
+- 圖片至多生成4張
+- 圖片對比次數越多，精緻度越高，35次為最佳，太多容易出bug
+- 標籤越多，完成度也越高
+
 ## 參考資料
 - 標籤參考 (https://danbooru.donmai.us/wiki_pages/tag_groups)
 - 標籤生成器 (https://docs.qq.com/doc/DWHl3am5Zb05QbGVs) (https://wolfchen.top/tag/?from=zhihu)
