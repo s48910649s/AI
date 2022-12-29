@@ -28,7 +28,7 @@ set COMMANDLINE_ARGS=--lowvram --precision full --no-half<<黑圖
 
 負:nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra fingers, more than 5 fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, extra leg, missing leg, extra arm, missing arm, fingers too long, no fingers, leg dislocation,arm dislocation
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [18+ Minato Aqua] 規模:9
 
@@ -38,8 +38,7 @@ In the room there is a man and a woman and a window with sunlight coming in, det
 
 反:lowres, bad anatomy, bad hands, text, error, missing fingers, extra fingers, more than 5 fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, extra leg, missing leg, extra arm, missing arm, fingers too long, no fingers, leg dislocation,arm dislocation, body too long, mutilation, more than two nipples, rough clothes
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 [perseus (azur lane)] 規模:9
 
 正:masterpiece, glowing eyelity, official art,extremely detailed CG unity 8k wallpaper, {{{{perseus (azur lane)}}}}, {pink hair}, detached sleeves, white dress, white wings, {{falling feathers}}, frilled dress, frills, headdress, pink eyes, beautiful detailed eyes, twintail, very long hair, cleavage, angel wings, {{sleeveless dress}}, {{{oppai loli}}}, lake at night, small breasts, looking away, {{bloom}}, {{beautiful detail water}}, {{empty eyes}}, white pantyhose, detail moon, light particles, floating hair, {{{{{soaked}}}}}, {{sitting on water}}, {expressionless}, bangs, {beautiful detail starry sky}, {expressionless eyes}, dynamic angle, blurry foreground, {{{{1girl}}}}
@@ -47,7 +46,7 @@ In the room there is a man and a woman and a window with sunlight coming in, det
 
 反:nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra fingers, more than 5 fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, extra leg, missing leg, extra arm, missing arm, fingers too long, no fingers, leg dislocation,arm dislocation
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 上原步夢
 
@@ -56,7 +55,7 @@ In the room there is a man and a woman and a window with sunlight coming in, det
 
 反:nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra fingers, more than 5 fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, extra leg, missing leg, extra arm, missing arm, fingers too long, no fingers, leg dislocation,arm dislocation, rough dress
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 校服上原步夢
 
@@ -65,7 +64,7 @@ In the room there is a man and a woman and a window with sunlight coming in, det
 
 反:nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra fingers, more than 5 fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, extra leg, missing leg, extra arm, missing arm, fingers too long, no fingers, leg dislocation,arm dislocation
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 白髮精靈
 
